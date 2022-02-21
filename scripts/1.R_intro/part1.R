@@ -113,6 +113,7 @@ sort(table(my_third_vector), decreasing = T)
 # please write the code immediately down here (in the empty space) 
 # save the file, and then push to the GitHub repo 
 
-
+turn3 <- strsplit(my_string, NULL)
+turn3
 
 ### Your Turn (3) - end
